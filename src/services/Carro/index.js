@@ -1,0 +1,6 @@
+exports.list = require('./list')
+exports.getId = require('./getId')
+exports.create = require('./create')
+exports.update = require('./update')
+exports.remove = require('./delete')
+exports.search = require('./search')
